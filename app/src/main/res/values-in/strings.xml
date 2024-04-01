@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodies</string>
+    <string name="intro_foodies">Apakah Anda lapar?, Mari pesan makanan Anda sekarang di foodies. Aplikasi terbaik untuk memesan makanan, ayo coba dan pesan sekarang!</string>
+    <string name="rendang">Rendang</string>
+    <string name="pecel">Pecel</string>
+    <string name="nasi_kuning">Nasi Kuning</string>
+    <string name="nasi_goreng">Nasi Goreng</string>
+    <string name="jumlah">Jumlah Pesanan</string>
+    <string name="harga">Harga</string>
+    <string name="hitung">Hitung</string>
+    <string name="setel_ulang">Reset</string>
+    <string name="total_harga">Total Harga : %1$.2f</string>
+    <string name="masukan_tidak_valid">Tidak Boleh Kosong.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Jumlah Pesanan : %1$s Pcs Harga Makanan : %2$s Rp Jenis Makanan : %3$s</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">"Foodies merupakan aplikasi Android pemesanan makanan yang memudahkan seseorang dalam memesan makanan sehingga seseorang tidak kesulitan dalam memesan makanan.                                             Aplikasi ini dibuat untuk Penilaian 1 Mobpro Kelas 1.                                                               Copyright © 2021 - 2024 Godwin Halley Wattimena.                                                               Semua hak cipta dilindungi undang-undang.     "</string>
+    <string name="kembali">Kembali</string>
+</resources>

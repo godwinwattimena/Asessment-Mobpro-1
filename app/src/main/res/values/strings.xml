@@ -1,3 +1,48 @@
 <resources>
-    <string name="app_name">Asessment 1</string>
+    <!-- STRING NAMA APLIKASI DAN DESKRIPSI APLIKASI -->
+    <string name="app_name">Foodies</string>
+    <string name="intro_foodies">
+        Are you hungry?, Lets order your food now at
+        foodies. The best app for ordering food,
+        lets try and order now!
+    </string>
+
+    <!-- STRING LIST MAKANAN -->
+    <string name="rendang">Rendang</string>
+    <string name="pecel">Pecel</string>
+    <string name="nasi_kuning">Yellow Rice</string>
+    <string name="nasi_goreng">Fired Rice</string>
+
+    <!-- STRING TEXTFIELD JUMLAH PESANAN DAN HARGA -->
+    <string name="jumlah">Order Quantity</string>
+    <string name="harga">Price</string>
+
+    <!-- STRING BUTTON HITUNG DAN RESET -->
+    <string name="hitung">Calculate</string>
+    <string name="setel_ulang">Reset</string>
+
+    <!-- STRING TOTAL HARGA DAN INPUT INVALID DAN BAGIKAN TEMPLATE-->
+    <string name="total_harga">Total Price : %1$.2f</string>
+    <string name="masukan_tidak_valid">Cannot be empty.</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">
+    \nOrder Quantity : %1$s Pcs
+    \nFood Prices : %2$s Rp
+    \nFood Type : %3$s
+    </string>
+
+    <!-- STRING ABOUT APLIKASI DAN COPYRIGHT-->
+    <string name="tentang_aplikasi">About the App</string>
+    <string name="copyright">
+        Foodies is a food ordering Android application
+        that makes it easy for someone to order food so that
+        someone is not difficult in ordering food.
+
+        \n\nThis application is made for Assessment 1 Mobpro Class 1.
+        \nCopyright © 2021 - 2024 Godwin Halley Wattimena.
+        \nAll rights reserved.
+    </string>
+
+    <!-- STRING DI ABOUTSCREEN -->
+    <string name="kembali">Return</string>
 </resources>
