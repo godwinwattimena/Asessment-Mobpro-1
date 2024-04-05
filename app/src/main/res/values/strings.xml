@@ -27,16 +27,17 @@
     <string name="bagikan">Share</string>
     <string name="bagikan_template">
     \nOrder Quantity : %1$s Pcs
-    \nFood Prices : %2$s Rp
+    \nFood Prices : Rp %2$s
     \nFood Type : %3$s
+    \nTotal Price : Rp %4$s
     </string>
 
     <!-- STRING ABOUT APLIKASI DAN COPYRIGHT-->
     <string name="tentang_aplikasi">About the App</string>
     <string name="copyright">
-        Foodies is a food ordering Android application
-        that makes it easy for someone to order food so that
-        someone is not difficult in ordering food.
+        Foodies is a food ordering Android app that
+        helps a food seller in recording food ordered
+        so that it becomes more efficient in ordering food.
 
         \n\nThis application is made for Assessment 1 Mobpro Class 1.
         \nCopyright © 2021 - 2024 Godwin Halley Wattimena.
